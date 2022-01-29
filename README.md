@@ -1,7 +1,5 @@
 ![banner](banner.png)
 
-<h1 align="center">👋</h1>
-
 # <img src="contact.svg" height=20/> Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankgupta@duck.com)
